@@ -1,6 +1,6 @@
 # University-Management-System_
 
-A University Managament System (using Java concept of OOP) that can perform the following functions:
+A University Managament System (using Java concept of OOP) is a database management system that can perform the following functions:
 
 - Get student's details
 - Add new students
